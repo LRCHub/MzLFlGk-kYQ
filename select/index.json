@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "楽しい夜更し",
+  "base_artist": "Eiichi Ohtaki",
+  "createdAt": "2026-03-27T13:07:51.040843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "楽しい夜更し",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": true,
+      "path": "select/01_楽しい夜更し_Eiichi_Ohtaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "楽しい夜更し",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_楽しい夜更し_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "楽しい夜更し",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_02_楽しい夜更し_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "楽しい夜更し",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_03_楽しい夜更し_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "楽しい夜更し",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_04_楽しい夜更し_大滝_詠一.txt"
+    }
+  ]
+}
